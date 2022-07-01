@@ -1,2 +1,2 @@
 # Kalaha
-School Info project
+School IT-Class project
